@@ -1,4 +1,3 @@
-# company-template
 <h1 align="center">Modern website design along with source code </h1>
 
 <div align="center">
@@ -14,7 +13,6 @@
     <a href="https://github.com/poornima-taranath/company-template">
       Solution
     </a>
-    <span> | </span>
   </h3>
 </div>
 
@@ -44,6 +42,6 @@
 
 ### Features
  
- This is just a website that showcases tailwind properties and using them for building large client side applications.
+ This is a non-functional website that showcases tailwind properties and using them for building large client side applications.
 
 
